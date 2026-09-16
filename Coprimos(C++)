@@ -1,3 +1,6 @@
+/*
+https://dmoj.uclv.edu.cu/problem/coprimos
+*/
 #include <bits/stdc++.h>
 #include <algorithm>
 #include <numeric>
