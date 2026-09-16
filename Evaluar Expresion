@@ -1,0 +1,7 @@
+/*
+https://dmoj.uclv.edu.cu/problem/evaluar
+*/
+cad=input()
+mas=cad.count('+')
+menos=cad.count('-')
+print(int((mas/2)-(menos/2)))
